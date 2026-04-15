@@ -44,4 +44,4 @@ Resume → Skill Extraction → Matching → Scoring → Explanation
 
 ---
 
-## 📂 Project Structure
+
